@@ -2456,6 +2456,14 @@
           0.2
         ]
       ]
+    },
+    {
+      "name": "m_australianshepherd_primary",
+      "directions": 4
+    },
+    {
+      "name": "m_australianshepherd_secondary",
+      "directions": 4
     }
   ]
 }
