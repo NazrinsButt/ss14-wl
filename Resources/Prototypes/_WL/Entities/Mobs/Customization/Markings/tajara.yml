@@ -104,21 +104,10 @@
   markingCategory: Tail
   speciesRestriction: [Tajaran]
   sprites:
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
     state: m_tail_leopard_primary
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
     state: m_tail_leopard_tertiary
-
-- type: marking
-  id: TajaraAustralianShepherdTail
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: [Tajaran]
-  sprites:
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
-    state: m_australianshepherd_primary
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
-    state: m_australianshepherd_secondary
 
 #Animated
 
@@ -128,18 +117,7 @@
   markingCategory: Tail
   speciesRestriction: []
   sprites:
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
     state: m_waggingtail_leopard_primary
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
     state: m_waggingtail_leopard_tertiary
-    
-- type: marking
-  id: TajaraAustralianShepherdTailAnimated
-  bodyPart: Tail
-  markingCategory: Tail
-  speciesRestriction: []
-  sprites:
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
-    state: m_waggingtail_australianshepherd_primary
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
-    state: m_waggingtail_australianshepherd_secondary

@@ -252,15 +252,15 @@
       state: m_tail_wolf
 
 - type: marking
-  id: VulpkaninAustralianShepherdTailAnimated
+  id: VulpkaninAustralianShepherdTail
   bodyPart: Tail
   markingCategory: Tail
   speciesRestriction: [Vulpkanin]
   sprites:
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
-    state: m_waggingtail_australianshepherd_primary
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
-    state: m_waggingtail_australianshepherd_secondary
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
+    state: m_australianshepherd_primary
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
+    state: m_australianshepherd_secondary
 # Animated
 
 - type: marking
@@ -362,7 +362,7 @@
   markingCategory: Tail
   speciesRestriction: []
   sprites:
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
     state: m_waggingtail_australianshepherd_primary
-  - sprite: _WL\Mobs\Customization\all_tails.rsi
+  - sprite: _WL/Mobs/Customization/all_tails.rsi
     state: m_waggingtail_australianshepherd_secondary
